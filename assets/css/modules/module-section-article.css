@@ -1,0 +1,21 @@
+/*
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Sections/Article */
+
+section, article {
+  margin-bottom: 3em;
+}
+
+  section > :last-child,
+  section > .container, section:last-child, article > :last-child,
+  article > .container, article:last-child {
+    margin-bottom: 0;
+  }
+
+  .row > section, .row > article {
+    margin-bottom: 0;
+  }

@@ -1,0 +1,25 @@
+/*
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* List */
+
+ul {
+  list-style: disc;
+  padding-left: 1em;
+}
+
+  ul li {
+    padding-left: 0.5em;
+  }
+
+ol {
+  list-style: decimal;
+  padding-left: 1.25em;
+}
+
+  ol li {
+    padding-left: 0.25em;
+  }
